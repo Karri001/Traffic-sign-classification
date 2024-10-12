@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 
 # Load your trained YOLOv5 model
-weights = 'C:/Users/VENKAT REDDY/Desktop/New folder (4)/yolov5/runs/train/exp7/weights/best.pt'
+weights = 'weights/best.pt'
 model = torch.hub.load('ultralytics/yolov5', 'custom', path=weights)
 
 def detect_objects(frame):
