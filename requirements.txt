@@ -1,7 +1,6 @@
 # Core libraries
 streamlit==1.39.0
 numpy==1.26.1
-opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84  # For headless environments
 Pillow==10.4.0
 
