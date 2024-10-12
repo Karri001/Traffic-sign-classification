@@ -1,0 +1,25 @@
+# Core libraries
+streamlit==1.39.0
+numpy==1.26.1
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84  # For headless environments
+Pillow==10.4.0
+
+# Machine learning libraries
+torch==2.4.0
+torchvision==0.19.0
+tensorflow==2.17.0  # Ensure compatibility with your model
+
+# YOLOv5 library (using ultralytics)
+ultralytics==8.2.77  # Make sure this is compatible with your YOLOv5 model
+
+# Additional libraries
+gradio==5.0.1
+scikit-learn==1.5.1
+scipy==1.14.0
+pandas==2.2.2
+matplotlib==3.9.1
+
+# Any additional libraries from your original list that are necessary
+aiofiles==23.2.1
+requests==2.32.3
