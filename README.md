@@ -63,6 +63,19 @@ For advanced users, inference can also be performed via the command line:
 python detect.py --source <path_to_input> --weights models/best.pt
 ```
 
+## Screenshots
+### Gradio Interface
+![Gradio Interface](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(279).png)
+
+
+### Detection Result
+![Detection Result](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(281).png)
+![Detection Result](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(282).png)
+![Detection Result](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(283).png)
+
+### Video Demonstration
+![Video Demonstration](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/video/WIN_20241130_00_07_38_Pro.mp4)
+
 ## Custom Dataset
 The model is trained on a custom dataset that includes diverse traffic signs observed in Indian road conditions. The dataset contains:
 - **Traffic Sign Types**: Speed limits, warning signs, mandatory signs, and more.
@@ -87,6 +100,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Author**: K.Sai Sri Venkata Reddy
+**Author**: Your Name
 
-For questions or suggestions, please contact: [venkatreddykarri001@gmail.com]
+For questions or suggestions, please contact: [your-email@example.com]
+
