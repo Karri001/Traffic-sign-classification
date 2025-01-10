@@ -100,7 +100,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Author**: Your Name
+**Author**: K.Sai Sri Venkata Reddy
 
-For questions or suggestions, please contact: [your-email@example.com]
+For questions or suggestions, please contact: [venkatreddykarri001@gmail.com.com]
 
