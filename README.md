@@ -74,7 +74,7 @@ python detect.py --source <path_to_input> --weights models/best.pt
 ![Detection Result](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(283).png)
 
 ### Video Demonstration
-![Video Demonstration](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/video/WIN_20241130_00_07_38_Pro.mp4)
+![Video Demonstration](https://github.com/Karri001/Traffic-sign-classification/tree/main/Screenshots/video)
 
 ## Custom Dataset
 The model is trained on a custom dataset that includes diverse traffic signs observed in Indian road conditions. The dataset contains:
